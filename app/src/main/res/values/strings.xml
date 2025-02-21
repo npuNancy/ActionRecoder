@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActionRecoder</string>
+    <string name="accessibility_service_description">Accessibility Service Description</string>
+    <string name="accessibility_service_label">ActionRecoder</string>
+</resources>
